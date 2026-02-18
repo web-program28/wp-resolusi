@@ -3,7 +3,9 @@ RENCANA KONTEN WP
 - Javascript
   * ES6
   * Framework javasript
+  ^ Vue
 - Struktur data dasar
 - PHP 
+  ^ Laravel
 - Interview
 - Vlogs
