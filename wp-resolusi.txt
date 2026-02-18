@@ -3,4 +3,4 @@ WP RESOLUSI
 - Membuat dashboard yang menarik
 - Menguasai SQL
 - Mampu membuat march shop
-- Kolaborasi dengan banyak expert
+- Membuat portofolio
