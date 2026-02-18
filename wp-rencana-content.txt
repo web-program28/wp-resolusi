@@ -1,0 +1,6 @@
+RENCANA KONTEN WP
+
+- Javascript
+- PHP 
+- Interview
+- Vlogs
