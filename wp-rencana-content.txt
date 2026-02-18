@@ -1,0 +1,8 @@
+RENCANA KONTEN WP
+
+- Javascript
+  * ES6
+  * Framework javasript
+- PHP 
+- Interview
+- Vlogs
